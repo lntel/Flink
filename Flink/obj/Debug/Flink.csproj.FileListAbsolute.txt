@@ -1,0 +1,9 @@
+C:\Users\jasper\Documents\GitHub\Flink\Flink\bin\Debug\Flink.dll.config
+C:\Users\jasper\Documents\GitHub\Flink\Flink\bin\Debug\Flink.dll
+C:\Users\jasper\Documents\GitHub\Flink\Flink\bin\Debug\Flink.pdb
+C:\Users\jasper\Documents\GitHub\Flink\Flink\bin\Debug\EntityFramework.xml
+C:\Users\jasper\Documents\GitHub\Flink\Flink\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jasper\Documents\GitHub\Flink\Flink\bin\Debug\System.Data.SQLite.xml
+C:\Users\jasper\Documents\GitHub\Flink\Flink\obj\Debug\Flink.csprojResolveAssemblyReference.cache
+C:\Users\jasper\Documents\GitHub\Flink\Flink\obj\Debug\Flink.dll
+C:\Users\jasper\Documents\GitHub\Flink\Flink\obj\Debug\Flink.pdb
