@@ -61,9 +61,10 @@ namespace Flink
                                 key = rd.GetString(rd.GetOrdinal("key"));
                                 value = rd.GetString(rd.GetOrdinal("value"));
 
-                                //byte[] value = (byte[])rd["value"];
-
-                                data.Add(key, value.Replace("\0", string.Empty));
+                                if(!Encoding.ASCII.GetBytes(key).SequenceEqual(new byte[] { 102, 105, 110, 103, 101, 114, 112, 114, 105, 110, 116 }))
+                                {
+                                    data.Add(key, value.Replace("\0", string.Empty));
+                                }
                             }
                         }
                     }
